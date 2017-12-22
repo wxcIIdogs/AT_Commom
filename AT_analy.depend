@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446667744 source:c:\users\writeing\desktop\at_lib\at_analy\main.c
+	<stdio.h>
+	<stdlib.h>
+
