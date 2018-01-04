@@ -35,6 +35,14 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="AT/AT.h" />
+		<Unit filename="SIM800/SIM800.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SIM800/SIM800.h" />
+		<Unit filename="commom.h" />
+		<Unit filename="debug.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
